@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4847
+
+Just a PhpSpec compiler for VIM
+
+Usage
+--------
+
+```
+:compiler phpspec
+:make
+```
+
+If you want a deeper integration with PhpSpec, like shortcuts, take a look at Herzult's plugin (https://github.com/Herzult/phpspec-vim). Feel free to use them together :).
